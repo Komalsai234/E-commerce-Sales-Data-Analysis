@@ -9,7 +9,7 @@ An e-commerce company seeks to analyze its sales data to understand customer beh
 ## Dataset
 [Explore the dataset used in this project] () 
 ## Projct WorFlow
-![Project Workflow](images/workflow.png)
+![Project Workflow](images/worflow.png)
 
 ## Analysis Dashboard
 ![Dashboard](images/dashboard.png)
